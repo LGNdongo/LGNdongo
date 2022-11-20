@@ -1,0 +1,86 @@
+Ce programme permet de corriger l'indentation d'un algorithme ecrit en pseudocode.
+
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 1
+Entrez le chemin du fichier de pseudocode : 
+
+ERREUR ! Chemin de fichier invalide. Recommencez...
+Entrez le chemin du fichier de pseudocode : adsfasdf
+
+ERREUR ! Chemin de fichier invalide. Recommencez...
+Entrez le chemin du fichier de pseudocode : /Users/Desktop/mel/test1.psdo
+
+ERREUR ! Chemin de fichier invalide. Recommencez...
+Entrez le chemin du fichier de pseudocode : test1.psdo
+Mots reserves : en (m)inuscules ou en (M)ajuscules : mm
+
+ERREUR ! Entrez m ou M. Recommencez...
+Mots reserves : en (m)inuscules ou en (M)ajuscules : MM
+
+ERREUR ! Entrez m ou M. Recommencez...
+Mots reserves : en (m)inuscules ou en (M)ajuscules : 
+
+ERREUR ! Entrez m ou M. Recommencez...
+Mots reserves : en (m)inuscules ou en (M)ajuscules : 111
+
+ERREUR ! Entrez m ou M. Recommencez...
+Mots reserves : en (m)inuscules ou en (M)ajuscules : M
+
+--------------------
+DEBUT
+   //solliciter le nombre
+   AFFICHER "Entrez un nombre : "
+   LIRE nombre
+
+   SI nombre mod 2 = 0 ALORS
+      AFFICHER "C'est un nombre pair"
+   FIN SI
+
+FIN
+--------------------
+
+Tapez <ENTREE> pour continuer...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 1
+Entrez le chemin du fichier de pseudocode : test1.psdo
+Mots reserves : en (m)inuscules ou en (M)ajuscules : m
+
+--------------------
+debut
+   //solliciter le nombre
+   afficher "Entrez un nombre : "
+   lire nombre
+
+   si nombre mod 2 = 0 alors
+      afficher "C'est un nombre pair"
+   fin si
+
+fin
+--------------------
+
+Tapez <ENTREE> pour continuer...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 2
+
+
+F I N   N O R M A L E   D U   P R O G R A M M E
+
+

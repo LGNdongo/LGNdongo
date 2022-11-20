@@ -1,0 +1,63 @@
+Ce programme permet de corriger l'indentation d'un algorithme ecrit en pseudocode.
+
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 0
+
+ERREUR ! Choix invalide. Recommencez...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 3
+
+ERREUR ! Choix invalide. Recommencez...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 11
+
+ERREUR ! Choix invalide. Recommencez...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 
+
+ERREUR ! Choix invalide. Recommencez...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : abc
+
+ERREUR ! Choix invalide. Recommencez...
+
+----
+MENU
+----
+1. Indenter pseudocode
+2. Quitter
+
+Entrez votre choix : 2
+
+
+F I N   N O R M A L E   D U   P R O G R A M M E
